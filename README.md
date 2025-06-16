@@ -1,7 +1,6 @@
 # 🧠 Problem Solving Level 2 – ProgrammingAdvices.com
 
 This repository contains my solutions and notes for the **Problem Solving Course** offered by [ProgrammingAdvices.com](https://www.programmingadvices.com/)<br> 
-All problems are solved in **C++**.
 
 ## 💡 Purpose
 
